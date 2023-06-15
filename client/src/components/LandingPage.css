@@ -1,0 +1,40 @@
+.appBar {
+    background-color: #BB8FCE !important;
+    border-radius: 25px !important;  
+}
+
+.btnSignup {
+    margin-right: 20px !important;
+    border-radius: 20px !important;
+}
+
+.btnLogin {
+    border-radius: 20px !important;
+}
+
+.slogan{
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+
+    /* margin: 10px auto 0 !important; */
+
+}
+
+.getStartedBtnBox{
+    display: flex !important;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.getStartedBtn{
+    box-shadow: 15 !important;
+    border-radius: 25px !important;
+}
